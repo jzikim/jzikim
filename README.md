@@ -4,9 +4,8 @@
 
 ### Data Science & Economics @ University of Wisconsin–Madison
 
-<img src="https://img.shields.io/badge/UW--Madison-Badger%20Red-C5050C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-C5050C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Economics-2C2C2C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/UW--Madison-C5050C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science%20%26%20Economics-2C2C2C?style=for-the-badge&logoColor=white" />
 
 </div>
 
