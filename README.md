@@ -1,39 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-# Hi, I'm Joonghyuk Kim 👋
+# Joonghyuk Kim
 
-I'm a Data Science and Economics student at the University of Wisconsin–Madison, interested in business analytics, e-commerce operations, marketing strategy, and data-driven decision making.
+### Data Science & Economics @ University of Wisconsin–Madison
+
+<img src="https://img.shields.io/badge/UW--Madison-Badger%20Red-C5050C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science-C5050C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Economics-2C2C2C?style=for-the-badge&logoColor=white" />
+
+</div>
+
+---
 
 ## About Me
 
-I enjoy connecting data, customer behavior, and business operations to solve real-world problems.  
-My experience includes e-commerce platform operations, inventory and logistics coordination, overseas supplier communication, and project-based data analysis.
+I'm a Data Science and Economics student at the University of Wisconsin–Madison, interested in business analytics, e-commerce operations, AI applications, and data-driven decision making.
+
+I enjoy connecting data, customer behavior, and business operations to solve real-world problems.
+
+---
 
 ## Interests
 
-Data Analytics · Business Strategy · Marketing Analytics · E-commerce · Operations · Financial Analysis
+`Data Analytics` · `Business Strategy` · `E-commerce Operations` · `AI Applications` · `Marketing Analytics` · `Financial Analysis`
+
+---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-C5050C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2C2C?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-C5050C?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-2C2C2C?style=for-the-badge&logo=r&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-C5050C?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Tools
+
+![Excel](https://img.shields.io/badge/Excel-2C2C2C?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-C5050C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-2C2C2C?style=for-the-badge&logo=google&logoColor=white)
+
+---
 
 ## Featured Projects
 
+### HERO: AI-Powered Emergency Monitoring App for Older Adults
+
+Developed API integrations for an AI-based emergency support platform using Kakao Map API and weather services.  
+Contributed to a wearable healthcare monitoring concept using AI voice calls and real-time anomaly detection.
+
+### College Student Performance & Sleep Analysis
+
+Analyzed 10,000 student records to examine how sleep duration and class attendance relate to GPA.  
+Used R and AI-assisted workflows to perform hypothesis testing, visualize trends, and interpret performance patterns.
+
+### JHHS STEM Research Mentoring Program
+
+Mentored a high school research team on an RDKit-based solubility analysis project.  
+Supported project scoping, descriptor-based data structuring, workflow design, and model evaluation.
+
 ### Corporate Valuation & Equity Investment Project
-Analyzed portfolio performance, tracked weekly KPIs, and benchmarked results against Nasdaq and S&P 500 to support investment presentations.
 
-### E-commerce Operations & Business Analysis
-Supported online marketplace operations, promotional planning, inventory coordination, and overseas supplier communication to improve sales and operational efficiency.
+Conducted corporate valuation and KPI tracking through weekly investment presentations.  
+Benchmarked portfolio performance against major market indexes and developed structured investment insights.
 
-### Data Analytics Coursework
-Used Python, R, and statistical methods to clean datasets, analyze trends, and communicate insights through reports and visualizations.
+---
+
+## Experience Focus
+
+`E-commerce Merchandising` · `Operations Support` · `Inventory & Logistics` · `Overseas Supplier Communication` · `Business Proposal Development`
+
+---
+
+## Certifications
+
+`Google AI` · `Google Advanced Data Analytics` · `Mastercard Consulting Simulation` · `Quantium Data Analytics`
+
+---
 
 ## Connect
 
-[LinkedIn](여기에_링크_넣기)  
-[Email](mailto:너의이메일_넣기)
--->
+[LinkedIn](https://linkedin.com/in/jkim618) · [Email](mailto:jkim2245@wisc.edu)
