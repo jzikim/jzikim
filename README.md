@@ -2,7 +2,7 @@
 
 # Joonghyuk Kim
 
-### Data Science & Economics @ University of Wisconsin–Madison
+### Economics & Data Science | University of Wisconsin–Madison
 
 <img src="https://img.shields.io/badge/UW--Madison-C5050C?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Science%20%26%20Economics-2C2C2C?style=for-the-badge&logoColor=white" />
@@ -45,7 +45,18 @@ I enjoy connecting data, customer behavior, and business operations to solve rea
 
 ## Featured Projects
 
-### HERO: AI-Powered Emergency Monitoring App for Older Adults
+| Project | What it does | Status |
+|---|---|---|
+| [Global Internship Hunter](https://github.com/jzikim/global-internship-hunter) | Automated public job-board collection, business-role ranking, snapshot comparison, and Discord alerts. | Active personal project |
+| [RDKit Research Assistant](https://github.com/jzikim/rdkit-solubility-assistant) | PubChem and RDKit molecular analysis with Korean explanations for a high-school research mentoring project. | Research & mentoring |
+| [Robot Trust Network](https://github.com/jzikim/robot-trust-network) | A shared project exploring verification and trust rules for robots across isolated networks. | Collaborative project / fork |
+| MadScheduler | Planned tool to turn a UW–Madison class schedule into calendar events. | Planned |
+
+[Personal website](https://jzikim.github.io/) · [RDKit demo](https://jhhsrdkitproject.streamlit.app/)
+
+## Additional Project Experience
+
+### [HERO: AI-Powered Emergency Monitoring App for Older Adults](https://github.com/jzikim/daro-reporter)
 
 Developed API integrations for an AI-based emergency support platform using Kakao Map API and weather services.  
 Contributed to a wearable healthcare monitoring concept using AI voice calls and real-time anomaly detection.
