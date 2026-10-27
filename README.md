@@ -13,15 +13,15 @@
 
 ## About Me
 
-I'm a Data Science and Economics student at the University of Wisconsin–Madison, interested in business analytics, e-commerce operations, AI applications, and data-driven decision making.
+I'm an Economics and Data Science student at the University of Wisconsin–Madison, interested in business analytics, e-commerce operations, AI applications, and data-driven decision making.
 
-I enjoy connecting data, customer behavior, and business operations to solve real-world problems.
+I enjoy connecting data, customer behavior, and business operations to solve real-world problems and build practical tools.
 
 ---
 
 ## Interests
 
-`Data Analytics` · `Business Strategy` · `E-commerce Operations` · `AI Applications` · `Marketing Analytics` · `Financial Analysis`
+`Data Analytics` · `Business Strategy` · `E-commerce Operations` · `AI Applications` · `Marketing Analytics` · `Corporate Valuation`
 
 ---
 
@@ -33,13 +33,12 @@ I enjoy connecting data, customer behavior, and business operations to solve rea
 ![Pandas](https://img.shields.io/badge/Pandas-2C2C2C?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-C5050C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-2C2C2C?style=for-the-badge&logo=r&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-C5050C?style=for-the-badge&logo=kotlin&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-C5050C?style=for-the-badge&logo=tableau&logoColor=white)
+![Corporate Valuation](https://img.shields.io/badge/Corporate%20Valuation-2C2C2C?style=for-the-badge&logo=finance&logoColor=white)
 
 ### Tools
 
 ![Excel](https://img.shields.io/badge/Excel-2C2C2C?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-C5050C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-2C2C2C?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -47,40 +46,25 @@ I enjoy connecting data, customer behavior, and business operations to solve rea
 
 | Project | What it does | Status |
 |---|---|---|
-| [Global Internship Hunter](https://github.com/jzikim/global-internship-hunter) | Automated public job-board collection, business-role ranking, snapshot comparison, and Discord alerts. | Active personal project |
-| [RDKit Research Assistant](https://github.com/jzikim/rdkit-solubility-assistant) | PubChem and RDKit molecular analysis with Korean explanations for a high-school research mentoring project. | Research & mentoring |
-| [Robot Trust Network](https://github.com/jzikim/robot-trust-network) | A shared project exploring verification and trust rules for robots across isolated networks. | Collaborative project / fork |
-| MadScheduler | Planned tool to turn a UW–Madison class schedule into calendar events. | Planned |
+| [VLA-Based Robotics Project](https://github.com/jzikim/robot-trust-network) | Explores trustworthy collaboration between robots across isolated networks, connecting technical execution with external partnerships. | Active collaborative project |
+| [Global Internship Hunter](https://github.com/jzikim/global-internship-hunter) | Collects, deduplicates, and filters global job postings, then sends daily updates through GitHub Actions and Discord alerts. | Active personal project |
+| [HERO: AI-Powered Emergency Monitoring App](https://github.com/jzikim/daro-reporter) | Supports an AI-based rural emergency platform through Kakao Map and weather API integrations, voice calls, and anomaly detection. | Completed project |
+| JHHS STEM Research Mentoring Program | Guided a high-school team through an RDKit-based molecular solubility project, from scoping and data workflows to model evaluation. | Completed mentoring |
 
 [Personal website](https://jzikim.github.io/) · [RDKit demo](https://jhhsrdkitproject.streamlit.app/)
 
 ## Additional Project Experience
 
-### [HERO: AI-Powered Emergency Monitoring App for Older Adults](https://github.com/jzikim/daro-reporter)
+### Corporate Valuation & Equity Investment Team
 
-Developed API integrations for an AI-based emergency support platform using Kakao Map API and weather services.  
-Contributed to a wearable healthcare monitoring concept using AI voice calls and real-time anomaly detection.
-
-### College Student Performance & Sleep Analysis
-
-Analyzed 10,000 student records to examine how sleep duration and class attendance relate to GPA.  
-Used R and AI-assisted workflows to perform hypothesis testing, visualize trends, and interpret performance patterns.
-
-### JHHS STEM Research Mentoring Program
-
-Mentored a high school research team on an RDKit-based solubility analysis project.  
-Supported project scoping, descriptor-based data structuring, workflow design, and model evaluation.
-
-### Corporate Valuation & Equity Investment Project
-
-Conducted corporate valuation and KPI tracking through weekly investment presentations.  
-Benchmarked portfolio performance against major market indexes and developed structured investment insights.
+Evaluated 5+ equities using DCF, comparable-company analysis, and three-statement models for weekly investment theses.
+Formulated fintech turnaround proposals combining transaction anomaly detection and risk segmentation.
 
 ---
 
 ## Experience Focus
 
-`E-commerce Merchandising` · `Operations Support` · `Inventory & Logistics` · `Overseas Supplier Communication` · `Business Proposal Development`
+`Marketing Strategy` · `E-commerce Operations` · `Financial Reconciliation` · `Inventory & Logistics` · `Business Development`
 
 ---
 
